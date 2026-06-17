@@ -4,6 +4,6 @@ permalink: /index.md
 ---
 
 ok then so
-this is quartz?
+is it ok?
 yes no yes no
 it is and it isn't
